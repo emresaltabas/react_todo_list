@@ -1,0 +1,21 @@
+                                           ROAD MAP
+
++ 1.newGoalInput and goalList should be in seperate compenent
++ 2.But the array including goals should be in App compenent 
+  3.Add more functionality to app like:
+  +///i) make input empty after submitting and 
+  -///ii) add Done and Delete button next to the todo item which is <li></li>.
+   +//find out using google font like icon as component!!!
++4. Create Card compenent to be looked app good
++5. Create and and css class using css modules
++6. Add validation features such as:
+   /// +i) prevent empty input
+   /// +ii) prevent input which has space by trim() function
++7. Create Error/toast component to be demonstrated when validation violations took place.
+
+
+
+INFERENCES i experienced before:
+1. i cant make sure that item is not deleted when clicking
+2. i have lack of css practising.i need to focus on it.
+3. i tend to use limited compenent rather than more.so i need to intensify practising of using component
